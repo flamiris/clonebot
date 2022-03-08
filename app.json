@@ -9,7 +9,7 @@
         "APP_ID": {"description": "19619380", "required": true},
         "API_HASH": {"description": "f8f2c6d7f176c793355b91eb0b113be8" , "required": true},
         "TG_BOT_TOKEN": {"description": "5116540503:AAGOmVIqB_N0rNWvCu1uRyxGtlZ9-QMrD4w","required": true},
-        "TG_USER_SESSION": {"description": "BACuWaJvU34TD11JJ7PvmQKQYHRzyVR6ohFHhH04Jejp8swUD6Md4SY-ZPq4fLhRldw64bwaSXvZgfsytVeBSIbCmpo0F9nYTwKwOExW1nG1vqev57Kvkub6G9_WBVBJFX6pkeeghW-ozkgtrdHZRLmIuOYi-MZke7jWvSfO13QzPwKHcSN1M7w2HZYOVBl0lqRvHcuGiXty2gYifRu_YUaw9yK2hkavKl9bk6mIrMkglbBcVaJcC3-cigOkhkiv37aaN0OftZhSdrN_NciAWRUxLVutpA59eh6A8lE8m-GPjGjbmCg6M4WwE3-r_jqTBXKNgCjXg8qsWj8P0YX-UTDGCUuHKwA","required": true},
+        "TG_USER_SESSION": {"description": "BABzQ-ZJd0t1YBgiL_CMFXasHiBp3pKMNyX07wIcELLiCPqeRxOCBYlZSo04vxd8_CmyP-3868BSheDT7hTiD-LiwlbuH-a1Sd92j8yXukv6HS9k-d2bppDisQhLezxRTu9FoZsde-KHyJa_NwxOjTDGRoD47DEuQMiWltbJa1QP6o3SVlZedRTtLsF4ZXc_Ug9abszZXOtQAKeSV1tplB0wAruNAkNrxx6tYpFdePG8yaxSZlGs0dEVfvCHPBXenL4yZ5a1CWbuymiK8o2HJ23hOjf5KggujagQJFFJNIqWo7Qb1bpmhrD-pcrszTcH-Jthf1pxCuoTQZAV1F0mRmCsCUuHKwA","required": true},
         "AUTH_USERS": {"description": "User ids of authorized users separated by space", "required": false},
         "ENV": {"description": "Set this to ANYTHING","value": "ANYTHING"}
   },
